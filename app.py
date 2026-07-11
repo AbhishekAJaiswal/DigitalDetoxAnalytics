@@ -482,6 +482,12 @@ with col3:
         color="Topic Name"
 
     )
+    
+    fig.update_layout(
+    xaxis_title="Discussion Topics",
+    yaxis_title="Posts",
+    legend_title_text="Topic Categories"
+    )
 
     st.plotly_chart(
 
