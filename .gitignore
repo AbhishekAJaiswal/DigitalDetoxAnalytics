@@ -23,7 +23,7 @@ Thumbs.db
 
 # Data Files (optional)
 data/raw/
-data/processed/
+# data/processed/
 
 # Streamlit Cache
 .streamlit/
