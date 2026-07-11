@@ -1,0 +1,39 @@
+======================================================================
+DIGITAL DETOX ANALYTICS
+AUTOMATIC INSIGHTS REPORT
+======================================================================
+
+Total Social Media Posts Analysed : 3488
+
+KEY FINDINGS
+----------------------------------------
+• Most active platform : YouTube (2156 posts)
+• Dominant sentiment : Positive (1738 posts)
+• Most discussed topic : Topic 6 (1645 posts)
+• Highest engagement platform : YouTube
+• Platform with highest positive discussions : YouTube
+• Platform with highest negative discussions : YouTube
+
+TOP DIGITAL DETOX KEYWORDS
+----------------------------------------
+doomscrolling : 158
+tiktok addiction : 139
+dopamine fasting : 125
+anxiety social media : 116
+dopamine detox : 108
+mental health : 101
+youtube addiction : 97
+phone addiction : 92
+reduce screen time : 90
+mindfulness : 87
+
+======================================================================
+AI RECOMMENDATIONS
+======================================================================
+
+Positive discussions dominate. Encourage these communities.
+Focus intervention campaigns on YouTube.
+Use YouTube for awareness campaigns because of high engagement.
+Promote mindfulness, digital detox and healthy screen habits.
+Encourage users to reduce excessive screen time.
+Support mental health awareness through online communities.

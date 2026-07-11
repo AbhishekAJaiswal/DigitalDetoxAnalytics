@@ -1,0 +1,33 @@
+============================================================
+DIGITAL DETOX ANALYTICS SUMMARY
+============================================================
+Total Posts : 3488
+Platforms : 4
+Topics : 6
+
+Most Active Platform : YouTube
+Most Common Sentiment : Positive
+Dominant Topic : Topic 6
+Highest Engagement Platform : YouTube
+
+Platform Distribution
+platform
+YouTube     2156
+Telegram     742
+Bluesky      536
+Twitch        54
+
+Sentiment Distribution
+sentiment
+Positive    1738
+Neutral      931
+Negative     819
+
+Topic Distribution
+topic
+1     616
+2      76
+3     732
+4     110
+5     309
+6    1645
